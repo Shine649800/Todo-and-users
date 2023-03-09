@@ -15,11 +15,12 @@
     "md5": "^2.3.0",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.15",
-    "passport": "^0.5.2",
+    "passport": "^0.5.3",
     "passport-local": "^1.0.0",
     "pg": "^8.7.1",
     "pg-hstore": "^2.3.4",
     "pug": "2.0.0-beta11",
-    "sequelize": "^6.15.0"
+    "sequelize": "^6.15.0",
+    "session": "^0.1.0"
   }
 }
